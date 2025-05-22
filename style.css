@@ -1,0 +1,26 @@
+body {
+  background: #eee;
+  text-align: center;
+}
+
+.container {
+  background: #6996d1;
+  padding: 10px;
+  border: 1px solid #999;
+}
+
+textarea {
+  width: 100%;
+  height: 160px;
+}
+
+button {
+  background: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+button:hover {
+  background: rgb(62, 170, 0);
+}
