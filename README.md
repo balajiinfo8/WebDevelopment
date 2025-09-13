@@ -3,10 +3,10 @@ Hi 👋, I'm Balaji!
 I am a **Full Stack Developer** with hands-on experience in **Django (Backend)** and skills in **Frontend development**.  
 I enjoy building scalable web applications, solving problems on platforms like **GeeksforGeeks**, and exploring **CTF challenges on TryHackMe**.  
 
-- 🔭 I previously worked as a **Django Backend Developer**  
-- 🌱 I’m currently learning **Advanced Frontend (React, JavaScript)** 
-- 💡 Interested in **Web Security, REST APIs, and scalable system design**  
-- ⚡ Fun fact: I love debugging more than coding 😅  
+- 🔭 Experienced in **Django Backend Development** with real-world project work  
+- 🌱 Expanding my skills in **React & Advanced JavaScript** to grow as a Full Stack Developer  
+- 💡 Strong interest in **Web Security, REST APIs, and Scalable System Design**  
+- ⚡ Fun fact: I see debugging as solving puzzles — it makes coding even more exciting 😅  
 
 ---
 
