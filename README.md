@@ -4,7 +4,7 @@ I am a **Full Stack Developer** with hands-on experience in **Django (Backend)**
 I enjoy building scalable web applications, solving problems on platforms like **GeeksforGeeks**, and exploring **CTF challenges on TryHackMe**.  
 
 - 🔭 I previously worked as a **Django Backend Developer**  
-- 🌱 I’m currently learning **Advanced Frontend (React, JavaScript)**  
+- 🌱 I’m currently learning **Advanced Frontend (React, JavaScript)** 
 - 💡 Interested in **Web Security, REST APIs, and scalable system design**  
 - ⚡ Fun fact: I love debugging more than coding 😅  
 
@@ -30,7 +30,7 @@ I enjoy building scalable web applications, solving problems on platforms like *
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinothkumarbalaji150@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vjbalaji-00283a18a/)  
 
 ---
 
